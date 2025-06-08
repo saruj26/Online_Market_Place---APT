@@ -21,7 +21,7 @@ Nitro is an online marketplace web application built using **Django** (backend) 
 - Manage orders from buyers
 
 ### 📊 Admin Panel
-- View all users 
+- View all users (sellers & buyers)
 - Manage products
 - Monitor transactions
 
